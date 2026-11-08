@@ -1,7 +1,7 @@
 <?php
 $host = 'sql101.infinityfree.com';
 $user = 'if0_43380014';
-$pass = 'xcsrKL1XbW';
+$pass = '';
 $dbname = 'if0_43380014_appointment_db';
 
 $conn = new mysqli($host, $user, $pass, $dbname);
