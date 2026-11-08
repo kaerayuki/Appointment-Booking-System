@@ -1,0 +1,13 @@
+body { background: #f4f6fb; }
+.main-nav { background: linear-gradient(90deg, #4f46e5, #7c3aed); }
+.main-nav .nav-link { color: rgba(255,255,255,.85); }
+.main-nav .nav-link:hover, .main-nav .nav-link.active { color: #fff; }
+.card { border: 0; border-radius: 14px; box-shadow: 0 2px 10px rgba(0,0,0,.06); }
+.hero { background: linear-gradient(135deg, #4f46e5, #7c3aed); color: #fff; border-radius: 18px; padding: 3rem 2rem; }
+.step-icon { width: 56px; height: 56px; border-radius: 50%; background: #eef2ff; color: #4f46e5; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; }
+.service-card { transition: transform .15s; }
+.service-card:hover { transform: translateY(-3px); }
+.slot-grid { display: flex; flex-wrap: wrap; gap: .5rem; }
+.slot-grid .btn { min-width: 88px; }
+.stat-number { font-size: 1.9rem; font-weight: 700; }
+.ref-code { font-size: 1.8rem; letter-spacing: 2px; font-weight: 700; color: #4f46e5; }
