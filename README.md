@@ -101,7 +101,4 @@ Open `/admin/login.php`
 4. Import `database.sql` using the InfinityFree phpMyAdmin.
 5. Open the live link and test the system.
 
-## Author
-Name: _Your Name_
-Course: _Your Course and Section_
-Instructor: _Instructor Name_
+
